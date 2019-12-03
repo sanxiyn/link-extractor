@@ -1,0 +1,9 @@
+[package]
+name = "link-extractor"
+version = "0.0.1"
+authors = ["Seo Sanghyeon <sanxiyn@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+argparse = "0.2"
+pulldown-cmark = "0.6"
