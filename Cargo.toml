@@ -6,4 +6,4 @@ edition = "2018"
 
 [dependencies]
 argparse = "0.2"
-pulldown-cmark = "0.7"
+pulldown-cmark = "0.8"
